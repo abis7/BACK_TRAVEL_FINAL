@@ -170,7 +170,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 
 ## Colección de Postman
 
-La colección de Postman con todos los endpoints está incluida en el repositorio:
+La colección de Postman:
 - **Enlace**: https://web.postman.co/workspace/My-Workspace~29909492-0282-48cf-8968-34860086357a/collection/37264634-46d7135e-e85c-4eed-963b-72fda93abe9a?action=share&source=copy-link&creator=37264634
 
 Swagger UI: http://localhost:5105/swagger/index.html
