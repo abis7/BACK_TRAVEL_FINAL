@@ -175,9 +175,10 @@ La colección de Postman:
 
 ## VIDEO
 
-- **Enlace**: https://youtu.be/_f3s5xFffdM
-
-
+- **PARTE 1**: https://youtu.be/h8MQoDShOtY?si=XAKZ7CHu031XO3ia
+- **PARTE 2**: https://youtu.be/DM1-MrxAIY4?si=yOqBvUZ2iaRS-UUV
+- **PARTE 3**: https://youtu.be/-hPL3_tpGmM?si=kefhvccRwRHGQrX7
+- **PARTE 4**: https://youtu.be/3mahiBj07fQ?si=ITg1acGpdXKWxXE9
 
 
 
